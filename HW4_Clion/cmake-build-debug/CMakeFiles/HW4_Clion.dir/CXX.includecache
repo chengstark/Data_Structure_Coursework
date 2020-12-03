@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/cheng_stark/Desktop/DS-2019/HW4_Clion/main.cpp
+iostream
+-
+cstdlib
+-
+cassert
+-
+vector
+-
+list
+-
+fstream
+-
+cstdio
+-
+cmath
+-
+algorithm
+-
+

@@ -1,0 +1,3 @@
+/Users/cheng_stark/Desktop/DS-2019/HW4_Clion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/cheng_stark/Desktop/DS-2019/HW4_Clion/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/cheng_stark/Desktop/DS-2019/HW4_Clion/cmake-build-debug/CMakeFiles/HW4_Clion.dir
